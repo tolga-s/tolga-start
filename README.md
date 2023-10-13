@@ -7,6 +7,6 @@
 ## About Me
 
 * 🌱 I’m currently learning everything about Java and doing a bootcamp with Academic Work 👨‍💻💻
-* 🤔 I’m looking for help with programming with Java - any good tips or ressources are welcome 😊
+  * 🤔 I’m looking for help with programming with Java - any good tips or ressources are welcome 😊
 * 💬 Ask me about programming, being a newbie and anything about philosophy 📖
-* 📫 You can reach me <b><a href="https://github.com/tolga000/tolga000/issues)https://github.com/tolga000/tolga000/issues"> here</a></b> or write me an <a href="mailto: tolga.kargili@gmail.com">email</a>
+* 📫 You can reach me <b><a href="https://github.com/tolga000/tolga000/issues)https://github.com/tolga000/tolga000/issues"> here</a></b> or write me an <b><a href="mailto: tolga.kargili@gmail.com">email</a></b>
