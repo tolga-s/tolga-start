@@ -4,7 +4,7 @@
 
 ![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white) ![Codewars](https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=codewars&logoColor=grey) ![ChatGPT](https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white) 
 
-# About Me
+## About Me
 
 * 🌱 I’m currently learning everything about Java and doing a bootcamp with Academic Work 👨‍💻💻
 * 🤔 I’m looking for help with programming with Java - any good tips or ressources are welcome 😊
